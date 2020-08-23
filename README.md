@@ -6,8 +6,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 https://angular.io/guide/lazy-loading-ngmodules
 
-##
-
-Use angular cli to create lazy loaded module with routing, module and component
+## Use angular cli to create lazy loaded module with routing, module and component
 
 ng generate module module-component-name --route module-component-name --module app.module
